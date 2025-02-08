@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { Prisma } from "@prisma/client";
 
 export default function Home() {
   return (
